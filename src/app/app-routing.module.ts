@@ -1,4 +1,3 @@
-import { TinmcComponent } from './tinmc/tinmc.component';
 import { LoginComponent } from './login/login.component';
 import { CheckoutComponent } from './checkout/checkout.component';
 import { CartComponent } from './cart/cart.component';

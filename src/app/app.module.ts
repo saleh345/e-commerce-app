@@ -24,7 +24,6 @@ import {
   AmazonLoginProvider,
 } from 'angularx-social-login';
 import { LoadingSpinnerComponent } from './loading-spinner/loading-spinner.component';
-import { TinmcComponent } from './tinmc/tinmc.component';
 import { EditorModule } from '@tinymce/tinymce-angular';
 
 
@@ -44,8 +43,7 @@ import { EditorModule } from '@tinymce/tinymce-angular';
     SearchPipe,
     CartSearchPipe,
     LoginComponent,
-    LoadingSpinnerComponent,
-    TinmcComponent
+    LoadingSpinnerComponent
   ],
   imports: [
     BrowserModule,
