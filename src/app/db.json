@@ -1,0 +1,547 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 2,
+      "productName": "Corater",
+      "productImagePath": "assets/images/shoe_1.jpg",
+      "productDescription": "Branded Shoes",
+      "productHeading": "Finding perfect products",
+      "productPrice": 50,
+      "productCategory": "Women"
+    },
+    {
+      "productId": 3,
+      "productName": "Polo Shirt",
+      "productImagePath": "assets/images/cloth_2.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Children"
+    },
+    {
+      "productId": 4,
+      "productName": "T-Shirt Mockup",
+      "productImagePath": "assets/images/cloth_3.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 5,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 6,
+      "productName": "Corater",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded Shoes",
+      "productHeading": "Finding perfect products",
+      "productPrice": 50,
+      "productCategory": "Women"
+    },
+    {
+      "productId": 7,
+      "productName": "Polo Shirt",
+      "productImagePath": "assets/images/cloth_2.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Children"
+    },
+    {
+      "productId": 8,
+      "productName": "T-Shirt Mockup",
+      "productImagePath": "assets/images/cloth_3.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 9,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 10,
+      "productName": "Corater",
+      "productImagePath": "assets/images/shoe_1.jpg",
+      "productDescription": "Branded Shoes",
+      "productHeading": "Finding perfect products",
+      "productPrice": 50,
+      "productCategory": "Women"
+    },
+    {
+      "productId": 11,
+      "productName": "Polo Shirt",
+      "productImagePath": "assets/images/cloth_2.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Children"
+    },
+    {
+      "productId": 12,
+      "productName": "T-Shirt Mockup",
+      "productImagePath": "assets/images/cloth_3.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 13,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 14,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Women"
+    },
+    {
+      "productId": 15,
+      "productName": "Corater",
+      "productImagePath": "assets/images/shoe_1.jpg",
+      "productDescription": "Branded Shoes",
+      "productHeading": "Finding perfect products",
+      "productPrice": 50,
+      "productCategory": "Children"
+    },
+    {
+      "productId": 16,
+      "productName": "Polo Shirt",
+      "productImagePath": "assets/images/cloth_2.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 17,
+      "productName": "T-Shirt Mockup",
+      "productImagePath": "assets/images/cloth_3.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Men"
+    },
+    {
+      "productId": 18,
+      "productName": "T-Shirt",
+      "productImagePath": "assets/images/cloth_1.jpg",
+      "productDescription": "Branded T-shirt",
+      "productHeading": "Finding perfect t-shirt",
+      "productPrice": 50,
+      "productCategory": "Women"
+    }
+  ],
+  "Cart": [],
+  "Order": [
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Large",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Small",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 2
+        }
+      ],
+      "country": "Algeria",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "adsdf",
+      "address": "asdf",
+      "residence": "s",
+      "province": "s",
+      "zipCode": "s",
+      "email": "s",
+      "phone": "0300",
+      "notes": "s",
+      "totalPrice": 200,
+      "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "1",
+          "cartProductName": "T-Shirt",
+          "cartProductImagePath": "assets/images/cloth_1.jpg",
+          "cartProductSize": "Small",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        }
+      ],
+      "country": "Albania",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "AS",
+      "address": "ASD",
+      "residence": "ASD",
+      "province": "ASD",
+      "zipCode": "ASD",
+      "email": "ASD",
+      "phone": "SAD",
+      "notes": "ASD",
+      "totalPrice": 100,
+      "id": 2
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "1",
+          "cartProductName": "T-Shirt",
+          "cartProductImagePath": "assets/images/cloth_1.jpg",
+          "cartProductSize": "Small",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "1",
+          "cartProductName": "T-Shirt",
+          "cartProductImagePath": "assets/images/cloth_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 1,
+          "cartProductPrice": 50,
+          "id": 2
+        }
+      ],
+      "country": "Albania",
+      "firstName": "adf",
+      "lastName": "af",
+      "companyName": "adf",
+      "address": "dsf",
+      "residence": "adf",
+      "province": "fda",
+      "zipCode": "adf",
+      "email": "adf",
+      "phone": "adf",
+      "notes": "adf",
+      "totalPrice": 150,
+      "id": 3
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "4",
+          "cartProductName": "T-Shirt Mockup",
+          "cartProductImagePath": "assets/images/cloth_3.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 2
+        }
+      ],
+      "country": "Netherlands",
+      "firstName": "a",
+      "lastName": "a",
+      "companyName": "a",
+      "address": "sd",
+      "residence": "asd",
+      "province": "sd",
+      "zipCode": "sd",
+      "email": "asd",
+      "phone": "asd",
+      "notes": "sadsd",
+      "totalPrice": 200,
+      "id": 4
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        }
+      ],
+      "country": "Azerbaijan",
+      "firstName": "ad",
+      "lastName": "asd",
+      "companyName": "asd",
+      "address": "asdf",
+      "residence": "asd",
+      "province": "asd",
+      "zipCode": "asd",
+      "email": "sd",
+      "phone": "asd",
+      "notes": "asda",
+      "totalPrice": 100,
+      "id": 5
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 3,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 2
+        }
+      ],
+      "country": "Pakistan",
+      "firstName": "Asad",
+      "lastName": "Manzoor",
+      "companyName": "Infogistic",
+      "address": "Dha",
+      "residence": "DHA",
+      "province": "Punjab",
+      "zipCode": "66000",
+      "email": "adf@gmail.com",
+      "phone": "adf",
+      "notes": "adfdf",
+      "totalPrice": 250,
+      "id": 6
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "1",
+          "cartProductName": "T-Shirt",
+          "cartProductImagePath": "assets/images/cloth_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 3,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "4",
+          "cartProductName": "T-Shirt Mockup",
+          "cartProductImagePath": "assets/images/cloth_3.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 2
+        },
+        {
+          "cartProductId": "1",
+          "cartProductName": "T-Shirt",
+          "cartProductImagePath": "assets/images/cloth_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 5,
+          "cartProductPrice": 50,
+          "id": 4
+        }
+      ],
+      "country": "Pakistan",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "asdf",
+      "address": "asdf",
+      "residence": "adf",
+      "province": "adsf",
+      "zipCode": "asdf",
+      "email": "asdfasdf",
+      "phone": "000",
+      "notes": "adsf",
+      "totalPrice": 500,
+      "id": 7
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "4",
+          "cartProductName": "T-Shirt Mockup",
+          "cartProductImagePath": "assets/images/cloth_3.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 3,
+          "cartProductPrice": 50,
+          "id": 4
+        },
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 5
+        }
+      ],
+      "country": "Pakistan",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "asdf",
+      "address": "adsf",
+      "residence": "asdf",
+      "province": "adf",
+      "zipCode": "asdf",
+      "email": "adf@gmail.com",
+      "phone": "sdf",
+      "notes": "sdf",
+      "totalPrice": 250,
+      "id": 8
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "3",
+          "cartProductName": "Polo Shirt",
+          "cartProductImagePath": "assets/images/cloth_2.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 4,
+          "cartProductPrice": 50,
+          "id": 2
+        },
+        {
+          "cartProductId": "4",
+          "cartProductName": "T-Shirt Mockup",
+          "cartProductImagePath": "assets/images/cloth_3.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 5,
+          "cartProductPrice": 50,
+          "id": 3
+        }
+      ],
+      "country": "Afganistan",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "adsdf",
+      "address": "Dha",
+      "residence": "adasf",
+      "province": "Punjab",
+      "zipCode": "66000",
+      "email": "adf@gmail.com",
+      "phone": "0300",
+      "notes": "asdfdfdf",
+      "totalPrice": 550,
+      "id": 9
+    },
+    {
+      "cartList": [
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 1
+        },
+        {
+          "cartProductId": "2",
+          "cartProductName": "Corater",
+          "cartProductImagePath": "assets/images/shoe_1.jpg",
+          "cartProductSize": "Medium",
+          "cartProductQuantity": 2,
+          "cartProductPrice": 50,
+          "id": 2
+        }
+      ],
+      "country": "Pakistan",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "companyName": "Info",
+      "address": "Dha",
+      "residence": "72",
+      "province": "Punjab",
+      "zipCode": "66000",
+      "email": "adf@gmail.com",
+      "phone": "0300",
+      "notes": "asdfasdf",
+      "totalPrice": 200,
+      "id": 10
+    }
+  ],
+  "Savesresponse": [
+    {
+      "id": "105747242780145553362",
+      "name": "Muhammad Saleh",
+      "email": "muhammadsaaleh5@gmail.com",
+      "photoUrl": "https://lh3.googleusercontent.com/-29g_30g6tKE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHDCoUt3H3Rx3DLWCvuVp6FC3fPQ/s96-c/photo.jpg",
+      "firstName": "Muhammad",
+      "lastName": "Saleh",
+      "authToken": "ya29.a0AfH6SMAU-ameQ7HUeYtR_PGbyQ7tcwPPIfoAjInUDwXom6xY11-6IfOJLMaMmf2Xw_oteW2hWHapGzY1ulufKmyFqCAnJve1ZMe9wuZQqr_3ZucZ8-PIc8sSUb26p5yRvmgV0CXkkcdpBvCwOJGUx3L1wahfRn8r22HN",
+      "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjJjNmZhNmY1OTUwYTdjZTQ2NWZjZjI0N2FhMGIwOTQ4MjhhYzk1MmMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNjE5MTU5NDIyNjU2LXZqOGtlMW1kbHBldjVlMmx1OGtpN3Vya3Z0MmllMmpiLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNjE5MTU5NDIyNjU2LXZqOGtlMW1kbHBldjVlMmx1OGtpN3Vya3Z0MmllMmpiLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1NzQ3MjQyNzgwMTQ1NTUzMzYyIiwiZW1haWwiOiJtdWhhbW1hZHNhYWxlaDVAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJZVDJHUGlneFJPLWVuRGZQNkt2eHJnIiwibmFtZSI6Ik11aGFtbWFkIFNhbGVoIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS8tMjlnXzMwZzZ0S0UvQUFBQUFBQUFBQUkvQUFBQUFBQUFBQUEvQU1adXVjbkhEQ29VdDNIM1J4M0RMV0N2dVZwNkZDM2ZQUS9zOTYtYy9waG90by5qcGciLCJnaXZlbl9uYW1lIjoiTXVoYW1tYWQiLCJmYW1pbHlfbmFtZSI6IlNhbGVoIiwibG9jYWxlIjoiZW4iLCJpYXQiOjE2MDE0NTE3NjAsImV4cCI6MTYwMTQ1NTM2MCwianRpIjoiMmRlNzgwNTI2YzY1ZjUxZTBiMzU2ZWRkODVkZWQwZGJkMjcyZDM1NiJ9.ctuJww8c2W4qrd2-XrQnOEh-ffoXDgYclheh6_41juwgFtzdF9aCM-byIYfmWbqaek8xnfvvh5MYGE0SANKeU01nXNXi9Fod8abixbi0uDuUbi6qZ24mfNpaO4vtD4wjygHvdqB7clJPudMeH5fkFztloHG1uMEqyIma_a-jssjQKvpbgW-OeWGzjLh1QqIw8aOQSKimoMnIU5nKxD0VWpBw2Aglt8TUD1BNNipxFFsVg0_Wjgu4J1LSbiFo1AOvaWmmEvLR5UQoU5ehAinIAEPsUF8O-oolMGFgJoVu-uDFG9qCTFTI7OZSTxoJfPQUDt32NS2hrZTOu9K97k0G2A",
+      "response": {
+        "NT": "105747242780145553362",
+        "Ad": "Muhammad Saleh",
+        "tV": "Muhammad",
+        "uT": "Saleh",
+        "TJ": "https://lh3.googleusercontent.com/-29g_30g6tKE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnHDCoUt3H3Rx3DLWCvuVp6FC3fPQ/s96-c/photo.jpg",
+        "$t": "muhammadsaaleh5@gmail.com"
+      },
+      "provider": "GOOGLE"
+    }
+  ]
+}
